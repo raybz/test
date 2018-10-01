@@ -1,5 +1,5 @@
 {
-    "name": "zhuangrb/v",
+    "name": "zhuangrb/test",
     "description": "test",
     "type": "library",
     "license": "MIT",
@@ -7,7 +7,7 @@
         {
             "name": "zhuangrb",
             "email": "hello@qq.com",
-            "homepage": "http://highkick.cc"
+            "homepage": "https://github.com/zhuangrb/test"
         }
     ],
     "minimum-stability": "dev",
